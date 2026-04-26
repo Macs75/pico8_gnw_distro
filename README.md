@@ -58,7 +58,10 @@ SD:/data/pico8/cdata/
 ## Compatibility
 
 This engine aims for high compatibility with PICO-8 0.2.7 cartridges. Most carts work out of the box. Performance-heavy carts may run slower than 30fps on the G&W hardware.
-Due to limited memory available on the G&W several carts are known to fail with out of memory errors of different flawors. 
+Due to limited memory available on the G&W several carts are known to fail with "out of memory" errors of different flawors. 
+Please check this page in case of problems to see if it's one of the carts known already for having issues: [Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQNI6r0leMszzNdeeKP-FVt0293E84rckfE7MAFvA8XNg6kN-lEK6wfkMXCnMAnP8cVEj59EO33zW01/pubhtml)
+
+In case the game is not present please report it [here](https://github.com/Macs75/pico8_gnw_distro/issues) , It will be added to the list or if possible fixed.
 
 ## License
 
